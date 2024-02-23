@@ -9,8 +9,8 @@ alien invasion Earth
 
 ## 2、游玩提示：
 首先我们需要先下载对应的Python，这里我使用的Pygame库。
-'''python
+```python
 pip install pygame
-'''
+```
 这样就可以游玩了。游玩的时候寻找主类：Alien_invision类即可。
 通篇使用的主要技术就是Python中的类。
